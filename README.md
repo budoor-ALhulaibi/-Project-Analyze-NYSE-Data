@@ -27,6 +27,7 @@ Task 3:
        D- Deliverable: Spreadsheet with tab for Forecasting Model
        
 
+<img width="1187" height="370" alt="Screenshot 2026-10-19 231046" src="https://github.com/user-attachments/assets/48ee147b-cf69-4aed-8ccf-58d5aa6c57d6" />
 
        
      
